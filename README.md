@@ -19,5 +19,6 @@ Welcome to the **Kids' Clothing Shop** project! This website allows sellers to e
 1. **Gender**: Categories such as Boys and Girls.
 2. **Clothing Type**: Categories like Tops, Bottoms, Dresses, Sets, Loungewear, Outerwear.
 3. **Age Group**: Categories for different age ranges such as 2-4 years, 5-9 years, and 10-15 years.
-4. 
-Webssite Demo : https://youtu.be/x_2r7yuUSNY
+
+## Website Demo 
+link : https://youtu.be/x_2r7yuUSNY
